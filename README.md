@@ -1,2 +1,2 @@
 # Rafay
-graphics deigner
+graphics designer
